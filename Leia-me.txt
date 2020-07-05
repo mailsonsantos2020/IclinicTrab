@@ -1,0 +1,21 @@
+
+Olá, tudo certo?
+
+Optei com realizar atividade no R usando o Rstudio. Mas, poderia também ter realizado no Python Scikit-Learn.
+
+Segue ggplot2 com jogadores separados por grupos k=7
+
+Jogadores que se destacam mais nos jogos, na sequência por nome e pais, quantidades partidas jogadas, abaixo:
+Ciara Baldwin,	Poland, com 106 partidas jogadas;
+Trace Woodard,	Thailand, com 97 partidas jogadas;
+Willow Lawrence, Armenia, com 96 partidas jogadas.
+
+Certamente posso contribuir muito mais... Ser orientado para as atividades, dicas e instruções técnicas sobre ML.
+
+E juntos construiremos muitas coisas bacanas!!
+
+Obrigado!
+
+
+
+
